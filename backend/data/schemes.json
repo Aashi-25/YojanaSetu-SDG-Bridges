@@ -1,0 +1,29 @@
+[
+  {
+    "id": "pm-kisan",
+    "name": "PM Kisan Samman Nidhi",
+    "category": "Farmer",
+    "benefit": "₹6,000/year",
+    "sdg": "SDG 1: No Poverty",
+    "eligibility": "Small/Marginal Farmers",
+    "docs": ["Aadhaar", "Land Record"]
+  },
+  {
+    "id": "pm-jay",
+    "name": "Ayushman Bharat (PM-JAY)",
+    "category": "Health",
+    "benefit": "₹5 Lakh Cover",
+    "sdg": "SDG 3: Good Health",
+    "eligibility": "BPL Families",
+    "docs": ["Ration Card", "Aadhaar"]
+  },
+  {
+    "id": "ujjwala",
+    "name": "PM Ujjwala Yojana",
+    "category": "Women",
+    "benefit": "Free LPG Connection",
+    "sdg": "SDG 7: Clean Energy",
+    "eligibility": "Women (BPL)",
+    "docs": ["BPL Card", "Aadhaar"]
+  }
+]
