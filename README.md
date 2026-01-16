@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # YojanaSetu 🇮🇳
 
 **Bridge Between Indian Government Schemes and Rural Citizens**
@@ -67,7 +67,7 @@ _YojanaSetu empowers rural and underserved communities to discover government sc
 | AI           | Python (Whisper tiny model)          |
 | Integration  | Node child process + Python script   |
 | Hosting      | Render (both frontend & backend)     |
->>>>>>> 3fee2b1a870e8e1423a0f0830a89106d034b511f
+
 
 ---
 
